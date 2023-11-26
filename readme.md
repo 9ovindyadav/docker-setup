@@ -4,9 +4,9 @@
 Docker setup for PHP development environment to get started developing instantly.
 
 ## Get started 
-1. Must have docker and docker compose installed on local machine.
+1. Must have **docker** and **docker compose** installed on local machine.
 2. Clone the repo in your laptop.
-3. move to docker folder in terminal in desired development environment.
+3. move to **docker folder** in terminal in desired development environment.
 4. run the following command.
 ```
 docker compose up -d --build
@@ -19,6 +19,11 @@ http://localhost:8000
 ```
 http://localhost:8080
 ```
+- server - localhost
+- user - root
+- passowrd - root
+
+7. Start developing PHP application in **src** folder.
 
 
 ## Docker commands 
@@ -38,6 +43,5 @@ docker compose down
 ```
 docker exec -it <container- id / name> bash
 ```
-
 
 
