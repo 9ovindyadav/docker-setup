@@ -23,7 +23,7 @@ http://localhost:8080
 - user - root
 - passowrd - root
 
-7. Start developing PHP application in **src** folder.
+7. Start developing PHP application.
 
 
 ## Docker commands 
